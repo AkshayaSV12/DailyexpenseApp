@@ -27,4 +27,4 @@ The app displays all expenses in a ListView and allows users to perform call, SM
 REGISTER NUMBER: 732923ITR003
 
 ## Screenshots
-(expense.png)
+![App Screenshot](expense.png)
